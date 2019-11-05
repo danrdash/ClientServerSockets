@@ -1,0 +1,7 @@
+awesome_student
+message Hi there!
+play 5
+play 3
+play 3
+message I think I will quit
+exit
