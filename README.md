@@ -15,7 +15,7 @@ output file: expected output of complementary input test
 6. insert the following command to initialize player 1: Client1 --logfile="/path/to/logfile" --output="/path/to/output
 7. insert the following command to initialize player 2: Client2 --logfile="/path/to/logfile" socket_port
 
-*for socket_port enter 1234 or any combination of 4 numbers
+\*for socket_port enter 1234 or any combination of 4 numbers
 
 
 ## IDE
