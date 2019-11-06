@@ -17,7 +17,7 @@ output file: expected output of complementary input test
 
 
 
- ####* for socket_port enter 1234 or any combination of 4 numbers
+ #### * for socket_port enter 1234 or any combination of 4 numbers
 
 
 ## IDE
